@@ -1,1 +1,1 @@
-# Paytm-Donation-WP-Plugin
+# Paytm Donation - WordPress Plugin
