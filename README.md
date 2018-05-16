@@ -42,4 +42,4 @@ Activate and fillout the paytm configation settings, then use the shortcode `[pa
  - Update setting Page
 
 ### License
-MIT
+GPL2 (http://www.gnu.org/licenses/gpl-2.0.html)
